@@ -7,7 +7,7 @@ class Project extends React.Component{
               var projectImage = 'images/'+projects.image;
               return <div key={projects.title} className="columns project-item">
                  <div className="item-wrap">
-                  <a href={projects.url} title={projects.title}>
+                  <a href={projects.url} target="_blank" title={projects.title}>
                      <img alt={projects.title} src={projectImage} />
                      <div className="overlay">
                         <div className="project-item-meta">
