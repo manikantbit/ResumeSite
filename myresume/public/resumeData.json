@@ -1,0 +1,146 @@
+{
+    "main": {
+      "name":"Manikant Prasad",
+      "occupation":"Graduate Student at San Jose State University",
+      "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+      "image":"profilepic.jpg",
+      "bio":"I am vibrant, energetic and team player with great passion about my work. Web & Mobile App, Cloud Technology and DevOps are the key areas I am focussing for growth.I speak Python, ABAP and Javascript and open to learn any other language.",
+      "contactmessage":"Please contact me using the below information. Thanks for visiting my profile.",
+      "email": "manikant.prasad09@gmail.com",
+      "phone": "+1-669-282-8159",
+      "address":{
+        "street":"802 Garden Street",
+        "city":"Milpitas",
+        "state":"CA",
+        "zip": "95035"
+      },
+      "website": "https://manikant-resume.herokuapp.com/",
+      "resumedownload":"https://manikant-resume.herokuapp.com/",
+      "social":[
+        {
+          "name":"facebook",
+          "url":"http://facebook.com/",
+          "className":"fa fa-facebook"
+        },
+        {
+          "name":"twitter",
+          "url":"https://twitter.com/manikantbit",
+          "className":"fa fa-twitter"
+        },
+        {
+          "name":"linkedin",
+          "url":"https://www.linkedin.com/in/manikant-prasad-83731746/",
+          "className":"fa fa-linkedin"
+        },
+        {
+          "name":"github",
+          "url":"http://github.com/manikantbit",
+          "className":"fa fa-github"
+        },
+        {
+          "name":"skype",
+          "url":"http://skype.com",
+          "className":"fa fa-skype"
+        }
+      ]
+    },
+    "resume":{
+      "skillmessage":"I like coding. Designing new frontend or backend solutions is my passion. I am also engaging myself to use Full Stack Development Skills in Data Science and Machine learning field.",
+      "education":[
+        {
+          "school":"San Jose State University",
+          "degree":"Masters in Software Engineering",
+          "graduated":"January 2018 - till Date (Expected December 2019), Current GPA (4.0)",
+          "description":"Mainly focussing on latest Web technology and Cloud Computing in my first academic year. Planning to learn and implement Data Science and Machine learning project in second year of my course."
+        },
+        {
+          "school":"Birla Institute of Technology, Mesra, Ranchi",
+          "degree":"Bachelor of Engineering in Information Technology",
+          "graduated":"May 2009, Final GPA: 7.55(81.5%) ",
+          "description":""
+        }
+      ],
+      "work":[
+        {
+          "company":"Accenture Solutions Private Limited",
+          "title":"Team Lead",
+          "years":"October 2015 - January 2018",
+          "description":"Worked in integration and customize UI design in CRM area,Promotions and Star Awards recepient,Lead 5 member team,Languages-ABAP, Javascript, CSS, HTML"
+        },
+        {
+          "company":"Tata Consultancy Services Limited",
+          "title":"Information Technology Analyst",
+          "years":"October 2009 - September 2015",
+          "description":"Worked in CRM area in various industries like Retail,Telecom,Utility, Grantor Management & Postal Industry. Designed integration reports, function modules, BADI, Web UI enhancement and webservices for integration,Languages - ABAP, Java, CSS, HTML."
+        }
+        ],
+      "skills":[
+        {
+          "name":"Python with Data Structures",
+          "level":"90%"
+        },
+        {
+          "name":"ReactJS, CSS, HTML5",
+          "level":"80%"
+        },
+        {
+          "name":"NodeJS",
+          "level":"70%"
+        },
+        {
+          "name":"MongoDB,MySQL,Redis",
+          "level":"80%"
+        },
+        {
+          "name":"React Native",
+          "level":"60%"
+        },
+        {
+          "name":"ABAP",
+          "level":"95%"
+        },
+        {
+          "name":"Git",
+          "level":"90%"
+        },
+        {
+          "name":"AWS, Heroku, Docker Cloud",
+          "level":"80%"
+        }
+      ]
+    },
+    "portfolio":{
+      "projects": [
+        {
+          "title":"ScaleItUp- Social Media Promotion App",
+          "category":"Marketing Web App for Any Company",
+          "image":"ScaleitUp.jpg",
+          "url":"https://team-project-272.herokuapp.com/"
+        },
+        {
+          "title":"CashApp: A Web App to send money online",
+          "category":"(offline now) A Web App to send money online with storage as Redis servers",
+          "image":"CashApp.jpg",
+          "url":"https://team-project281.herokuapp.com/"
+        },
+        {
+          "title":"My Resume Website",
+          "category":"A React based resume website",
+          "image":"resume-website.jpg",
+          "url":"https://manikant-resume.herokuapp.com/"
+        }
+      ]
+    },
+    "testimonials":{
+      "testimonials":[
+        {
+          "text":"",
+          "user":""
+        },
+        {
+          "text":"",
+          "user":""
+        }
+      ]
+    }
+  }
