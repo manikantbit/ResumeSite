@@ -3,11 +3,11 @@ import React, { Component } from 'react';
 class Home extends React.Component {
     render() {
         if (this.props.data) {
-        var networks = this.props.data.social.map(network => {
-           return <li key={network.name}><a href={network.url} target='_blank'><i className={network.className}></i></a></li>
-        })
-    }
-    return (
+            var networks = this.props.data.social.map(network => {
+                return <li key={network.name}><a href={network.url} target='_blank'><i className={network.className}></i></a></li>
+            })
+        }
+        return (
             <header id="home">
                 <nav id="nav-wrap">
 
@@ -23,19 +23,22 @@ class Home extends React.Component {
                     </ul>
 
                 </nav>
+                
+                
                 <div className="row banner">
                     <div className="banner-text">
                         <h1 className="responsive-headline">I'm Manikant Prasad.</h1>
-                        <h3>I'm San Jose based Software Developer, currently pursuing Masters in Software Engineering in San Jose State University.
+                        <h3>I'm a Software Developer, currently pursuing Masters in Software Engineering in San Jose State University.
                             My passion is to build robust and scalable web applications using modern Web technologies and host them on any Cloud.
-                            I am looking for the internship opportunities in the area of Web and Cloud technologies.
+                            I am looking for the internship opportunities in the area of Web and Cloud technologies in San Jose/San Francisco Bay Area.
                         </h3>
                         <hr />
                         <ul className="social">
                             {networks}
                         </ul>
                     </div>
-                </div>
+                </div> 
+                
 
                 <p className="scrolldown">
                     <a className="smoothscroll" href="#about"><i className="icon-down-circle"></i></a>
