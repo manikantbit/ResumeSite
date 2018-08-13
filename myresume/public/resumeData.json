@@ -14,8 +14,8 @@
         "state":"CA",
         "zip": "95035"
       },
-      "website": "https://drive.google.com/file/d/1mYbxnfUvV7k9ob200leyvmOgvwUckl88/view?usp=sharing",
-      "resumedownload":"https://drive.google.com/file/d/1mYbxnfUvV7k9ob200leyvmOgvwUckl88/view?usp=sharing",
+      "website": "https://drive.google.com/file/d/1olG3h2G6nfM0UryR5r27ZcjNZLLJ_lCY/view?usp=sharing",
+      "resumedownload":"https://drive.google.com/file/d/1olG3h2G6nfM0UryR5r27ZcjNZLLJ_lCY/view?usp=sharing",
       "social":[
         {
           "name":"facebook",
@@ -45,7 +45,7 @@
       ]
     },
     "resume":{
-      "skillmessage":"I like coding. Designing new frontend or backend solutions is my passion. I am also engaging myself to use Full Stack Development Skills in Data Science and Machine learning field.",
+      "skillmessage":"I like coding. Designing UI as a frontend developer is my passion. Handle integration point and backend systems in the design as well. I am also engaging myself to use Full Stack Development Skills in Data Science and Machine learning field.",
       "education":[
         {
           "school":"San Jose State University",
@@ -56,8 +56,8 @@
         {
           "school":"Birla Institute of Technology, Mesra, Ranchi",
           "degree":"Bachelor of Engineering in Information Technology",
-          "graduated":"May 2009, Final GPA: 7.55(81.5%) ",
-          "description":""
+          "graduated":"May 2009",
+          "description":"Final GPA: 7.55(81.5%)"
         }
       ],
       "work":[
