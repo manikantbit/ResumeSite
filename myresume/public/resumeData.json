@@ -14,8 +14,8 @@
         "state":"CA",
         "zip": "95035"
       },
-      "website": "https://drive.google.com/file/d/1olG3h2G6nfM0UryR5r27ZcjNZLLJ_lCY/view?usp=sharing",
-      "resumedownload":"https://drive.google.com/file/d/1olG3h2G6nfM0UryR5r27ZcjNZLLJ_lCY/view?usp=sharing",
+      "website": "https://drive.google.com/file/d/1soW37nrwnSjmll5_0yr0Spm9aqi_XWZC/view?usp=sharing",
+      "resumedownload":"https://drive.google.com/file/d/1soW37nrwnSjmll5_0yr0Spm9aqi_XWZC/view?usp=sharing",
       "social":[
         {
           "name":"facebook",
@@ -29,7 +29,7 @@
         },
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/manikant-prasad-83731746/",
+          "url":"https://www.linkedin.com/in/manikant-prasad-09/",
           "className":"fa fa-linkedin"
         },
         {
@@ -56,21 +56,21 @@
         {
           "school":"Birla Institute of Technology, Mesra, Ranchi",
           "degree":"Bachelor of Engineering in Information Technology",
-          "graduated":"May 2009",
+          "graduated":"May",
           "description":"Final GPA: 7.55(81.5%)"
         }
       ],
       "work":[
         {
           "company":"Accenture Solutions Private Limited",
-          "title":"Team Lead",
+          "title":"Senior Analyst",
           "years":"October 2015 - January 2018",
-          "description":"Worked in integration and customize UI design in CRM area,Promotions and Star Awards recepient,Mentored a five member team to develop and support client,Languages-ABAP, Javascript, CSS, HTML"
+          "description":"Worked in integration and customize UI design in CRM & Mobile app,Promotions and Star Awards recipient,Mentored a five member team to develop and support client,Languages-ABAP, Javascript, CSS, HTML"
         },
         {
           "company":"Tata Consultancy Services Limited",
           "title":"Information Technology Analyst",
-          "years":"October 2009 - September 2015",
+          "years":"May 2013 - September 2015",
           "description":"Worked in CRM area in various industries like Retail,Telecom,Utility, Grantor Management & Postal Industry. Designed integration reports, function modules, BADI, Web UI enhancement and webservices for integration,Languages - ABAP, Java, CSS, HTML."
         }
         ],
@@ -93,7 +93,7 @@
         },
         {
           "name":"React Native",
-          "level":"60%"
+          "level":"40%"
         },
         {
           "name":"ABAP",
